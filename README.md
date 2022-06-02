@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm George Karampelas
 
-a full stack web engineer and machine learning practitioner in Athens, Greee eager to always learn and work with new technologies.
+a full stack web engineer and machine learning practitioner in Athens, Greece eager to always learn and work with new technologies.
 
 - 🔭 I’m currently working on ML web apps
 - 🌱 I’m currently learning React Native, Pytorch
