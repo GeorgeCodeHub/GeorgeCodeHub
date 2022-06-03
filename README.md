@@ -3,7 +3,7 @@
 a full stack web engineer and machine learning practitioner in Athens, Greece.
 
 - 🔭 I’m currently working on ML web apps
-- 🌱 I’m currently learning React Native, Pytorch
+- 🌱 I’m currently focused on ReactJS, React Native, FastAPI, Tensorflow, Pytorch
 - ⚙️ I use daily ReactJS, Django, Tensorflow
 - 👨‍💻 All of my projects are available at https://georgecodehub.github.io/portfolio/
 - ⚡️ Fun fact about me: I love reading books
