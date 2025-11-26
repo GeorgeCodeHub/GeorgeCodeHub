@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm George Karampelas
 
-a Software Engineer and technology practitioner based in Athens, Greece.
+a software engineer and technology enthusiast based in Athens, Greece.
 
 - 🔭 I’m currently working on ML web apps
-- 🌱 I’m currently focused on ReactJS, React Native, FastAPI, Tensorflow, Pytorch
+- 🌱 I’m currently focused on ReactJS, React Native, Golang, MCPs, LLMs
 - ⚙️ I use daily ReactJS, Django, Tensorflow
 - 👨‍💻 All of my projects are available at https://georgecodehub.github.io/portfolio/
 - ⚡️ Fun fact about me: I love reading books
